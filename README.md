@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there, I'm Shreya Surve!👋
 
-<!--
-**Shreyasurve19/Shreyasurve19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Right now I'm a first-year B.Sc Data Science student at VSIT, Mumbai.🎓
+I have built some basic projects using C and C++ programming.
+Currently exploring Python, Data Science and basics in AI/ML.
 
-Here are some ideas to get you started:
+🛠️Skills Set:
+  1. C Programming (beginner)
+  2. C++ Programming (beginner)
+  3. Python (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁Projects: Beginner-friendly mini projects using C and C++ (Check my repo!)
+
+Feel free to check out my repositories and see what i'm working on!
