@@ -4,7 +4,7 @@ Right now I'm a first-year B.Sc Data Science student at VSIT, Mumbai.🎓
 I have built some basic projects using C and C++ programming.
 Currently exploring Python, Data Science and basics in AI/ML.
 
-##🛠️Skills Set:
+## 🛠️Skills Set:
    1. C Programming (beginner)
    2. C++ Programming (beginner)
    3. Python (learning)
